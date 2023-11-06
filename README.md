@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jyoti Singh Pariar (@jyotisparihar)
+## 👋 Hi, I'm Jyoti Singh Parihar (@jyotisparihar)
 ### 👨‍💻 Aspiring Java Developer
 
 🌱 I'm on a journey to master Java programming and build exciting applications.
